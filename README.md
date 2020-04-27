@@ -4,6 +4,8 @@
 
 ## Robinhood: Overview and Origin
 
+![LOGO2](robinhood-logo2.jpg)
+
 Robinhood was incorporated on
 Founded by
 Idea came about by
@@ -22,7 +24,3 @@ They use the tecnology of
 THey implement this technology through (use Stackshare)
 
 ## Robinhood: Landscape
-
-
-
-
