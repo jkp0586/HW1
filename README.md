@@ -1,7 +1,6 @@
-![LOGO](robinhood-logo.jpg)
 # ROBINHOOD
+![LOGO](robinhood-logo.jpg)
 
-![LOGO2](robinhood-logo2.jpg)
 ## Robinhood: Overview and Origin
 
 Robinhood was incorporated on
