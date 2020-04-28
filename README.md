@@ -1,4 +1,4 @@
-# ROBINHOOD CASE STUDY
+# ROBINHOOD CASE STUDY - Things Are Rarely What They Seem
 ![LOGO](robinhood-logo.jpg)
 
 ## Robinhood: Overview and Origin
