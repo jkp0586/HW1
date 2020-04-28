@@ -31,9 +31,9 @@ Robinhood exists within the domain of investment/trading platforms and has large
 
 Among its largest competitors in this space are companies like Firstrade, Merrill Edge, Aly Invest, Fidelity, Charles Schwab and E*TRADE.
 
-## Robinhood: Results and Macroeconomic Analysis
-
 Robinhood's branding and mission statement did a fantastic job of taking advantage of the post-2008 social climate. Its expressed desire to "provide everyone with access to the financial markets, not just the wealthy," played well to many people who felt disenfranchised and excluded from the financial economy, especially the millenial generation. However, this narrative only portrays one half of the story.
+
+## Robinhood: Results and Macroeconomic Analysis
 
 A characteristic of the US economy not frequently talked about in public is the growing demographic problem that we as a country face. As the baby boomer generation nears retirement, the country will inevitably be confronted with a demographic cliff. Baby boomers have already been forced to postpone retirement to ages that were simply unheard of in previous generations, thus only exacerbating the problem. 
 
