@@ -1,4 +1,4 @@
-# ROBINHOOD
+# ROBINHOOD CASE STUDY
 ![LOGO](robinhood-logo.jpg)
 
 ## Robinhood: Overview and Origin
