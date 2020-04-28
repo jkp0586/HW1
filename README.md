@@ -5,7 +5,7 @@
 
 Robinhood Markets, Inc. is a U.S.-based financial services company headquartered in Menlo Park, California. The company offers a mobile app and website that offers people the ability to invest in stocks, ETFs, and options through Robinhood Financial and crypto trading through Robinhood Crypto.
 
-Founded on April 18, 2013 by Vladimir Tenev and Baiju Bhatt. Both had previously built high-frequency trading platforms for large financial institutions in NYC before moving on to create Robinhood.
+Robinhood was founded on April 18, 2013 by Vladimir Tenev and Baiju Bhatt. Both had previously built high-frequency trading platforms for large financial institutions in NYC before moving on to create Robinhood.
 
 The creation of Robinhood was driven by a goal to "provide everyone with access to the financial markets, not just the wealthy."
 
