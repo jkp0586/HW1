@@ -31,7 +31,7 @@ Robinhood exists within the domain of investment/trading platforms and has large
 
 Among its largest competitors in this space are companies like Firstrade, Merrill Edge, Aly Invest, Fidelity, Charles Schwab and E*TRADE.
 
-## Robinhood: Results
+## Robinhood: Results And Deeper Analysis
 
 Robinhood's branding and mission statement did a fantastic job of taking advantage of the post-2008 social climate. Its expressed desire to "provide everyone with access to the financial markets, not just the wealthy," played well to many people who felt disenfranchised and excluded from the financial economy, especially the millenial generation. However, this narrative only portrays one half of the story.
 
